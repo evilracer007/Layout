@@ -1,0 +1,115 @@
+.wrapper{
+	border: 2px solid green;
+}
+
+.header{
+	border: 2px solid green;
+	overflow: hidden;
+}
+
+.logo{
+	border: 2px solid green;
+	width : 20%;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	padding: 25px;
+
+}
+
+.menu{
+	border: 2px solid green;
+	width: 40%;
+	float: left;
+	margin: 20px;
+	margin-left: 50px;
+}
+
+
+.menu ul li{
+	display: inline-block;
+}
+
+.sign_in{
+	border: 2px solid green;
+	width: 20%;
+	float: right;
+	padding: 25px;
+	margin: 20px;
+}
+
+.slider{
+	border: 2px solid green;
+	overflow: hidden;
+}
+
+.info{
+	border: 2px solid green;
+	width: 40%;
+	height: 100px;
+	float: left;
+	margin-left: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-left: 120px;
+}
+
+.image{
+	border: 2px solid green;
+	width: 30%;
+	float: right;
+	height: 100px;
+	margin-right: 80px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-left: 90px;
+
+}
+
+.account{
+	border: 2px solid green;
+	overflow: hidden;
+}
+
+.ser{
+	border: 2px solid green;
+	width: 10%;
+	height: 150px;
+	float: right;
+	padding: 70px;
+	margin-right: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.service{border: 2px solid green;
+	overflow: hidden;
+}
+
+.details{
+	border: 2px solid green;
+	width: 10%;
+	height: 150px;
+	float: right;
+	padding: 70px;
+	margin-right: 100px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.footer{
+	border: 2px solid green;
+	overflow: hidden;
+}
+
+.back{
+	border: 2px solid green;
+	padding: 5px;
+	width: 40%;
+	height: 90px;
+	float: right;
+	margin-right: 80px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
+}
